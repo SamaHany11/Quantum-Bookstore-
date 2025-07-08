@@ -39,5 +39,14 @@ Test Cases Covered:-
  Tools Used
 - Java 21
 - Eclipse IDE
+## Screenshots
+
+# 1. Application Running in Eclipse
+
+![Running App](Output/running%20app.png)
+
+# 2. Console Output After Purchase
+
+![Output](Output/Output.png)
 
 
